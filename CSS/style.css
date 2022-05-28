@@ -94,7 +94,13 @@ body{
     background-color: var(--dark);
 }
 
-.milestones, .module {
+.milestone, .module {
+    font-size: 14px;
+    color: var(--white);
+    margin: 10px;
+    padding: 10px;
+}
+.milestonesDetails {
     font-size: 14px;
     color: var(--white);
 }
