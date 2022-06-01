@@ -56,13 +56,6 @@ body{
     grid-gap: 20px;
     padding: 30px;
 }
-.flex {
-    display: flex;
-}
-.checkbox {
-    width: 40px;
-}
-
 .milestonesDetails img {
     width: 100%;
     height: auto;
@@ -76,6 +69,13 @@ body{
 .title, .details {
     margin: 10px auto;
     padding: 5px 10px;
+}
+
+.flex {
+    display: flex;
+}
+.checkbox {
+    width: 40px;
 }
 
 .milestones, .doneList {
